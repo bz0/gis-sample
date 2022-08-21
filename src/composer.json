@@ -1,0 +1,5 @@
+{
+    "require": {
+        "saikiran/geohash": "^1.0"
+    }
+}
